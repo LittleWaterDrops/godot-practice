@@ -18,4 +18,4 @@ jobs:
         with:
           branch: gh-pages
           folder: chapter2_coin_dash # 배포할 폴더를 지정
-          clean: true # 기존 파일 삭제 후 업데이트
+          clean: true
