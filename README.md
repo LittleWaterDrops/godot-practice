@@ -1,6 +1,6 @@
 '고도 엔진 4 게임 개발 프로젝트 제 2판' 책 연습
 
-배포된 링크 : https://littlewaterdrops.github.io/godot-practice/
+배포된 링크 : https://littlewaterdrops.github.io/godot-practice/chapter2_coin_dash/index.html
 
 | 학습 진행 | 내용                                                          |
 | --------- | ------------------------------------------------------------- |
